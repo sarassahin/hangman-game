@@ -12,7 +12,7 @@ String teamWorkIsTheBest = {@selam_ben_samet,@sarassahin,@UycDeV}; 😉
 ### Interface and Gameplay
 
 ###### Main menu
-When you run the **mayinmenu.java** this window will show up to play the game, turn off and on the music or exit the game.
+When you run the **mayinmenu.java** this window will show up to play the game, turn off and on the music or exit the game. 
 
 [![mainmenu](https://gcdnb.pbrd.co/images/AJvF27vIiCQi.png?o=1 "mainmenu")](https://gcdnb.pbrd.co/images/AJvF27vIiCQi.png?o=1 "mainmenu")
 
