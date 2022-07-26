@@ -1,10 +1,10 @@
 # Hangman game
-*We changed classic Hangman game a little bit with super powers!*
-*There are two super power in the game. They let you to see a letter from word and remove a mistake.*
+*We changed classic Hangman game a little bit with super powers!
+There are two super power in the game. They let you to see a letter from word and remove a mistake. *
 
 
 
-String teamWorkIsTheBest = {@selam_ben_samet,@sarassahin,@UycDeV}; 😉
+String teamWorkIsTheBest = {[@selam_ben_samet](https://github.com/selam-ben-samet "@selam_ben_samet"),[@sarassahin](https://github.com/sarassahin "@sarassahin"),[@UycDeV](https://github.com/UycDeV "@UycDeV")};
 
 ------------
 
@@ -12,13 +12,13 @@ String teamWorkIsTheBest = {@selam_ben_samet,@sarassahin,@UycDeV}; 😉
 ### Interface and Gameplay
 
 ###### Main menu
-When you run the **mayinmenu.java** this window will show up to play the game, turn off and on the music or exit the game. 
+When you run the **mayinmenu.java** this window will show up to play the game, turn off and on the music or exit the game.
 
 [![mainmenu](https://gcdnb.pbrd.co/images/AJvF27vIiCQi.png?o=1 "mainmenu")](https://gcdnb.pbrd.co/images/AJvF27vIiCQi.png?o=1 "mainmenu")
 
 We wanted the player to feel like going back to school days, that is why we used a background something like a notebook and we made the title like written by a pencil.
 And we decorated this background with some sweet pictures.
-@UycDeV
+
 ------------
 
 
