@@ -11,7 +11,7 @@ String teamWorkIsTheBest = {[@selam_ben_samet](https://github.com/selam-ben-same
 
 ### Interface and Gameplay
 
-###### Main menu
+#### Main menu
 When you run the **mayinmenu.java** this window will show up to play the game, turn off and on the music or exit the game.
 
 [![mainmenu](https://gcdnb.pbrd.co/images/AJvF27vIiCQi.png?o=1 "mainmenu")](https://gcdnb.pbrd.co/images/AJvF27vIiCQi.png?o=1 "mainmenu")
@@ -22,7 +22,7 @@ And we decorated this background with some sweet pictures.
 ------------
 
 
-###### Exit
+#### Exit
 When you click the **exit** button in main menu this window will appear to check are you sure.
 We used a gif in that window and that made it sweeter than a classical exit window.
 
@@ -33,7 +33,7 @@ We colored it with some light and popular colors to make it have a simple lookin
 ------------
 
 
-###### In Game
+#### In Game
 
 As you can see there is a gallow on the left side. When you make a mistake the man getting hanged and you can only make 5 mistakes or the man is dead.
 
