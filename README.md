@@ -1,6 +1,6 @@
 # Hangman game
 *We changed classic Hangman game a little bit with super powers!*
-*There are two super power in the game. They let you to see a letter from word and remove a mistake.*
+*There are two super powers in the game. They let you to see a letter from word and remove a mistake.*
 
 
 
